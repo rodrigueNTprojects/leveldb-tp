@@ -21,7 +21,6 @@ locale) en comparaison avec CouchDB (base distribuée).
 ### 1. Récupérer le code fourni
 
     # Cloner le repo avec le code pré-écrit
-    # Créer un dossier leveldb-tp
     git clone https://github.com/rodrigueNTprojects/tp_levelDB_IND500.git
     cd leveldb-tp
 
